@@ -1,0 +1,34 @@
+{
+  "plants": [
+    {
+      "big plants": "apple tree",
+      "fruits": "apple,orange",
+      "id": "c7df"
+    },
+    {
+      "id": "ca54",
+      "creepers": "money plant",
+      "fruits": "NA"
+    },
+    {
+      "id": "b411",
+      "water plants": "lotus plant",
+      "fruit": "not applicable"
+    },
+    {
+      "id": "f02d",
+      "bushes": "tomato plant",
+      "fruit": "tomato"
+    },
+    {
+      "id": "4a21",
+      "kinds of plants": "[creepers,bushes,big plants,small plants]",
+      "fruit": "orange,mirchi,tulasi,mint"
+    },
+    {
+      "id": "2369",
+      "water plants": "lotus plant",
+      "fruit": "not applicable"
+    }
+  ]
+}

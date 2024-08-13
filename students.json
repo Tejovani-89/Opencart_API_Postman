@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "name": "Sarala",
+      "location": "nizamabad",
+      "phone": "9445566332",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "c701"
+    },
+    {
+      "id": "f335",
+      "name": "Narender",
+      "location": "hyderabad",
+      "phone": "9445569090",
+      "courses": [
+        "dotnet",
+        "python"
+      ]
+    },
+    {
+      "id": "3dc1",
+      "name": "Narender",
+      "location": "hyderabad",
+      "phone": "9445569090",
+      "courses": [
+        "dotnet",
+        "python"
+      ]
+    },
+    {
+      "id": "2618",
+      "name": "Krishna",
+      "location": "USA",
+      "phone": "944009090",
+      "courses": [
+        "playwrite",
+        "dev"
+      ]
+    },
+    {
+      "id": "6707",
+      "name": "Krishna",
+      "location": "USA",
+      "phone": "944009090",
+      "courses": [
+        "playwrite",
+        "dev"
+      ]
+    },
+    {
+      "id": "c2d0",
+      "name": "KrishUS",
+      "location": "US",
+      "phone": "944008890",
+      "courses": [
+        "playwrite1",
+        "dev"
+      ]
+    },
+    {
+      "id": "65f1",
+      "name": "KrishUS",
+      "location": "US",
+      "phone": "944008890",
+      "courses": [
+        "playwrite1",
+        "dev"
+      ]
+    },
+    {
+      "id": "707c",
+      "name": "KrishUS",
+      "location": "US",
+      "phone": "944008890",
+      "courses": [
+        "playwrite1",
+        "dev"
+      ]
+    }
+  ]
+}

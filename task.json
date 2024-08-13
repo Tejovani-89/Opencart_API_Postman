@@ -1,0 +1,24 @@
+{
+  "task": [
+    {
+      "id": "1",
+      "name": "Teju",
+      "location": "chennai",
+      "phone": "9030405060",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Vani",
+      "location": "hyderabad",
+      "phone": "9030020006",
+      "courses": [
+        "c sharp",
+        "dot net"
+      ]
+    }
+  ]
+}

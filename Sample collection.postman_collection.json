@@ -1,0 +1,117 @@
+{
+	"info": {
+		"_postman_id": "100a78ae-0d39-46da-904e-c580dc2ac6fc",
+		"name": "Sample collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34657051",
+		"_collection_link": "https://orange-station-731240.postman.co/workspace/API-Team-Workspace~66b11f07-bd8d-4a64-b51c-780f412e9cf5/collection/34657051-100a78ae-0d39-46da-904e-c580dc2ac6fc?action=share&source=collection_link&creator=34657051"
+	},
+	"item": [
+		{
+			"name": "GET Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://reqres.in/api/users?page=2",
+					"protocol": "https",
+					"host": [
+						"reqres",
+						"in"
+					],
+					"path": [
+						"api",
+						"users"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Vani\",\r\n    \"job\": \"QA\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://reqres.in/api/users",
+					"protocol": "https",
+					"host": [
+						"reqres",
+						"in"
+					],
+					"path": [
+						"api",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT Request",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Vani\",\r\n    \"job\": \"Tester\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://reqres.in/api/users/93",
+					"protocol": "https",
+					"host": [
+						"reqres",
+						"in"
+					],
+					"path": [
+						"api",
+						"users",
+						"93"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE Request",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://reqres.in/api/users/93",
+					"protocol": "https",
+					"host": [
+						"reqres",
+						"in"
+					],
+					"path": [
+						"api",
+						"users",
+						"93"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
